@@ -1,16 +1,49 @@
 # CoreData
 地址邮编, 用CoreData实现插入/删除/查询(包含结果排序,模糊查询)
 - github:https://github.com/KeenTeam1990/AddressBook
-<p>
-![创建工程,记得勾选使用CoreData](https://github.com/KeenTeam1990/AddressBook/blob/master/3A8893F8-4421-4103-9BEB-A064DEFB81C5.png)
-<p>
-<p>
-![创建Entity](https://github.com/KeenTeam1990/AddressBook/blob/master/F584ADF5-B351-4CC2-8160-105B1A9DDB91.png)
-<p>
-<p>
-![创建Entity](https://github.com/KeenTeam1990/AddressBook/blob/master/61A74E53-D821-42CD-8371-241B70D134B2.png)
-<p>
-<p>
-![创建属性](https://github.com/KeenTeam1990/AddressBook/blob/master/DB6C18F6-D00D-4D3B-90AA-C46FC10D61C6.png)
-<p>
+
+# 创建工程,记得勾选使用CoreData
+
+
+![image](https://github.com/KeenTeam1990/AddressBook/blob/master/introductionimages/1.png)
+
+
+
+
+# 创建Entity
+
+
+![image](https://github.com/KeenTeam1990/AddressBook/blob/master/introductionimages/2.png)
+
+
+
+
+
+# 创建Entity
+
+
+![image](https://github.com/KeenTeam1990/AddressBook/blob/master/introductionimages/3.png)
+
+
+
+
+
+# 创建属性
+
+![image](https://github.com/KeenTeam1990/AddressBook/blob/master/introductionimages/4.png)
+
+
+有相关问题可以在线留言或发邮件至Keen_Team@163.com，谢谢！
+
+# License
+The MIT License (MIT)
+
+Copyright (c) 2016 KEENTEAM
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
